@@ -14,3 +14,7 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+## Bug Fix
+
+Updated the README documentation to improve clarity.
+Fixed a typo in the interest rate description.
